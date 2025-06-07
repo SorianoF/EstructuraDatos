@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\PracticaED\bin\Debug\net8.0\PracticaED.exe
+C:\Users\Lenovo\source\repos\PracticaED\bin\Debug\net8.0\PracticaED.deps.json
+C:\Users\Lenovo\source\repos\PracticaED\bin\Debug\net8.0\PracticaED.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PracticaED\bin\Debug\net8.0\PracticaED.dll
+C:\Users\Lenovo\source\repos\PracticaED\bin\Debug\net8.0\PracticaED.pdb
+C:\Users\Lenovo\source\repos\PracticaED\obj\Debug\net8.0\PracticaED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\PracticaED\obj\Debug\net8.0\PracticaED.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PracticaED\obj\Debug\net8.0\PracticaED.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PracticaED\obj\Debug\net8.0\PracticaED.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PracticaED\obj\Debug\net8.0\PracticaED.dll
+C:\Users\Lenovo\source\repos\PracticaED\obj\Debug\net8.0\refint\PracticaED.dll
+C:\Users\Lenovo\source\repos\PracticaED\obj\Debug\net8.0\PracticaED.pdb
+C:\Users\Lenovo\source\repos\PracticaED\obj\Debug\net8.0\PracticaED.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\PracticaED\obj\Debug\net8.0\ref\PracticaED.dll
