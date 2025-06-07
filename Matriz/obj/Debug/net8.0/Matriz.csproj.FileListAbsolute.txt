@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\Matriz\bin\Debug\net8.0\Matriz.exe
+C:\Users\Lenovo\source\repos\Matriz\bin\Debug\net8.0\Matriz.deps.json
+C:\Users\Lenovo\source\repos\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Matriz\bin\Debug\net8.0\Matriz.dll
+C:\Users\Lenovo\source\repos\Matriz\bin\Debug\net8.0\Matriz.pdb
+C:\Users\Lenovo\source\repos\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Matriz\obj\Debug\net8.0\Matriz.dll
+C:\Users\Lenovo\source\repos\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+C:\Users\Lenovo\source\repos\Matriz\obj\Debug\net8.0\Matriz.pdb
+C:\Users\Lenovo\source\repos\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Matriz\obj\Debug\net8.0\ref\Matriz.dll
