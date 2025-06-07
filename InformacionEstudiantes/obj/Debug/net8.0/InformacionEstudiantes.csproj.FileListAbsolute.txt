@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\bin\Debug\net8.0\InformacionEstudiantes.exe
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\bin\Debug\net8.0\InformacionEstudiantes.deps.json
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\bin\Debug\net8.0\InformacionEstudiantes.runtimeconfig.json
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\bin\Debug\net8.0\InformacionEstudiantes.dll
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\bin\Debug\net8.0\InformacionEstudiantes.pdb
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\obj\Debug\net8.0\InformacionEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\obj\Debug\net8.0\InformacionEstudiantes.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\obj\Debug\net8.0\InformacionEstudiantes.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\obj\Debug\net8.0\InformacionEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\obj\Debug\net8.0\InformacionEstudiantes.dll
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\obj\Debug\net8.0\refint\InformacionEstudiantes.dll
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\obj\Debug\net8.0\InformacionEstudiantes.pdb
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\obj\Debug\net8.0\InformacionEstudiantes.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\InformacionEstudiantes\obj\Debug\net8.0\ref\InformacionEstudiantes.dll
